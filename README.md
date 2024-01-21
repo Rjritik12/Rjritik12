@@ -1,3 +1,4 @@
+![logo](https://github.com/Rjritik12/Rjritik12/blob/main/github-Banner.jpg)
 <h1 align="center">Hi , This is Ritik Jaiswal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
