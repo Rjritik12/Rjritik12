@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rjritik12/Rjritik12/blob/main/github-Banner.jpg)
 <h1 align="center">Hi , This is Ritik Jaiswal</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src"https://lexica.art/prompt/b7244ba6-7ff8-4bb3-bd8b-601f51952fbf">
+<img align="right" alt="coding" width="400" src"![image](https://github.com/Rjritik12/Rjritik12/assets/110723218/bca778d1-1f12-4962-b34e-17e87979aad9)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjritik12&label=Profile%20views&color=0e75b6&style=flat" alt="rjritik12" /> </p>
 
