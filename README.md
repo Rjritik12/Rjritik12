@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@RitikJaiswal12](https://medium.com/@RitikJaiswal12)
 
-- 📫 How to reach me **studyritik6@gmail.com**
+- 📫 How to reach me **ritikfam12@gmail.com**
 
 - 📄 Know about my experiences [https://rjritik12.github.io/Portfolio/](https://rjritik12.github.io/Portfolio/)
 
